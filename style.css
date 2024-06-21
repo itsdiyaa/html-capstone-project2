@@ -173,3 +173,22 @@ h3{
   margin: 100px;
   color: rgb(201, 199, 199);
 }
+
+@media(max-width:980px){
+  .top-container{
+    height: 40vh;
+  }
+
+  .sec-container{
+    height: 40vh;
+  }
+
+  .third-container{
+    height: 40vh;
+  }
+
+  .fourth-container{
+    height: 20vh;
+  }
+
+}
